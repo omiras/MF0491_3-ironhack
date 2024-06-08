@@ -1,7 +1,6 @@
 # Flex, diseño responsive y accesibilidad
 
 Normalmente estas funcionalidades se consiguen añadiendo una línea de código en el fichero styles.css, en el selector adecuado. 
-Puedes modificar el HTML, pero no debería ser necesario.
 
 [Ver vídeo resultado esperado](https://oscarm.tinytake.com/df/16403bf/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
 
